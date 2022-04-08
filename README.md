@@ -4,6 +4,10 @@ A Flutter project that fetches Temperature and Humidity.
 
 <img src="https://raw.githubusercontent.com/yingloke/Doge_Sensor_App/main/Screenshots/Getting_started.jpg" alt="Flutter Weather App Preview" width=50% height=50%>
 
+<img src="https://raw.githubusercontent.com/yingloke/Doge_Sensor_App/main/Screenshots/Main_page.jpg" alt="Flutter Weather App Preview" width=50% height=50%>
+
+<img src="https://raw.githubusercontent.com/yingloke/Doge_Sensor_App/main/Screenshots/simple_chart.jpg" alt="Flutter Weather App Preview" width=50% height=50%>
+
 ## Supported Features
 
 Temperature Data
