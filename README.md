@@ -1,15 +1,25 @@
 # dodge
 
-A new Flutter project.
+A Flutter project that fetches Temperature and Humidity.
 
-## Getting Started
+![gettingstartedpage!](Screenshots\Getting_started.jpg)
 
-This project is a starting point for a Flutter application.
+## Supported Features
 
-A few resources to get you started if this is your first Flutter project:
+Temperature Data
+Humidity Data
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Packages in use
+
+
+- [Covert: Json Data File](https://pub.dev/packages/convert)
+- [Http:API Fetching](https://pub.dev/packages/http)
+
+## Humidity and Temperature Adafruit Api 
+- [Adafruit: Dashboard](https://io.adafruit.com/DogeEngizear/dashboards/temp-and-humid-sensor)
+- [Adafruit: Humidity Feed](https://io.adafruit.com/DogeEngizear/feeds/humid-feed)
+- [Adafruit: Temperature Feed](https://io.adafruit.com/DogeEngizear/feeds/temp-feed)
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
